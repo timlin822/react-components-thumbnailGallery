@@ -1,6 +1,6 @@
 import {useState} from 'react';
 
-import THUMBNAIL_IMAGES_DATA from 'data/ThumbnailImagesData.js';
+import THUMBNAIL_IMAGES_DATA from 'data/ThumbnailImagesData';
 
 import './ThumbnailGallery.css';
 
